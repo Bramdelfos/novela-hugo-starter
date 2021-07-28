@@ -8,6 +8,5 @@ social:
 - title: twitter
   url: https://twitter.com/NewNetNinja
 featured: true
-draft: true
 
 ---
