@@ -1,8 +1,7 @@
 ---
-title: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+title: Bram Delfos
+bio: 'Building a P2P mobility network on the #InternetComputer. Based in Amsterdam
+  / Cape Town.'
 avatar: "/images/dennis-brotzky.jpg"
 featured: true
 social:
