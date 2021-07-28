@@ -8,6 +8,6 @@ social:
   url: https://www.linkedin.com/in/delfosbram/
 - title: twitter
   url: https://twitter.com/NewNetNinja
-featured: true
+featured: false
 
 ---
