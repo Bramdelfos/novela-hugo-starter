@@ -5,6 +5,7 @@ bio: 'Building a P2P mobility network on the #InternetComputer. Based in Amsterd
 avatar: "/images/whatsapp-image-2021-06-22-at-13-09-06.jpeg"
 featured: true
 social:
+- {}
 - title: linkedin
   url: https://www.linkedin.com/in/delfosbram/
 - url: https://twitter.com/NewNetNinja
